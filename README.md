@@ -11,7 +11,7 @@ The goal of this project is to develop a model capable of distinguishing between
 
 ## Dataset
 
-The project uses the "Real vs. AI-Generated Faces Dataset" from Kaggle. This dataset contains a collection of images labeled as either real or AI-generated.
+The project uses the "[Real vs. AI-Generated Faces Dataset](https://www.kaggle.com/datasets/philosopher0808/real-vs-ai-generated-faces-dataset)" from Kaggle. This dataset contains a collection of images labeled as either real or AI-generated.
 
 ## Code Description
 
